@@ -1,0 +1,1 @@
+This file contains images of area and power efficiency followed by gate level synthesis in cadence as well as verification hierachy.
